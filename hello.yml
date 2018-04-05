@@ -5,4 +5,4 @@
   tasks:
     # see https://docs.ansible.com/ansible/ping_module.html
     - name: test connection
-      ping: localhost
+      ping: 
